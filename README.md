@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Linux Gaming Network Optimizer</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-    pre { background-color: #f4f4f4; padding: 10px; }
-    code { background-color: #f4f4f4; padding: 2px 4px; }
-  </style>
-</head>
-<body>
   <h1>Linux Gaming Network Optimizer</h1>
   <p>
     A Python-based GUI tool that optimizes network settings on Linux for gaming and real-time applications (e.g., FPS games like Counter-Strike). This application provides an easy-to-use interface (built with PyQt6) to adjust low-level network parameters for reduced latency and improved performance.
