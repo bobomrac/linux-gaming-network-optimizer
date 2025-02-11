@@ -79,16 +79,6 @@ cd linux-gaming-network-optimizer</pre>
     </li>
   </ol>
 
-  <h2>Contributing</h2>
-  <p>
-    Contributions are welcome! If you have suggestions or bug reports, please open an issue or submit a pull request.
-  </p>
-
-  <h2>License</h2>
-  <p>
-    This project is licensed under the <a href="LICENSE">MIT License</a>.
-  </p>
-
   <h2>Disclaimer</h2>
   <p>
     <strong>Warning:</strong> This tool makes changes to your system's network settings. Use it with caution and ensure you have proper backups and recovery methods in place. The author is not responsible for any issues or damages that may result from using this tool.
